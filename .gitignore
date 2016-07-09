@@ -1,0 +1,13 @@
+## Ignore all config files 
+*.config
+
+## Ignore compiled files
+*.pyc
+
+## Ignore virtualenv
+pyauth
+
+## Ignore temp files
+app.py.inprog
+*~
+test.py
